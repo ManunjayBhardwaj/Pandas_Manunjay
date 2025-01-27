@@ -16,7 +16,7 @@ What's Included
 
 ## This repository includes:
 
-###Introduction to Pandas:
+### Introduction to Pandas:
 What is Pandas?
 Installing Pandas and getting started.
 Key Data Structures:
