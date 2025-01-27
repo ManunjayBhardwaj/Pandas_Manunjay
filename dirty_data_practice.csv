@@ -1,0 +1,21 @@
+ID,Name,Age,Email,Join Date
+1,Alice,25,alice@example.com,2020-01-15
+2,Bob,Twenty,bob@example,Invalid Date
+3,Charlie,30,charlie@example.com,2021/03/25
+4,David,-5,david@,2019-30-02
+5,Eve,40,eveexample.com,N/A
+6,Frank,N/A,frank@example.com,2018-06-10
+7,Grace,28,grace@,2020-07-15
+8,Hannah,34,hannah@example.com,Invalid
+9,Ian,21,ian@example,2021/11/23
+10,Jack,18,jack.com,2019-10-25
+11,Kara,22,kara@example.com,2022-11-30
+12,Liam,33,liam@,2021/12/01
+13,Mona,27,monaexample.com,Wrong Format
+14,Nina,Unknown,nina@,2019-02-29
+15,Oscar,29,oscar@example,2018/01/10
+16,Paul,35,paul@example.com,2017-07-07
+17,Quinn,Invalid,quinn@,2016-08-15
+18,Rachel,24,rachel@example.com,2015/09/20
+19,Steve,31,steveexample.com,2014-10-10
+20,Tina,19,tina@example.com,2013-05-15

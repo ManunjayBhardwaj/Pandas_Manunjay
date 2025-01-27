@@ -1,0 +1,36 @@
+[
+    {
+      "activity_id": 1,
+      "name": "Running",
+      "duration_minutes": 30,
+      "calories_burned": 300,
+      "average_heart_rate": 140,
+      "date": "2023-01-01",
+      "user_name": "Alice Johnson",
+      "user_age": 30,
+      "user_gender": "Female"
+    },
+    {
+      "activity_id": 2,
+      "name": "Cycling",
+      "duration_minutes": 45,
+      "calories_burned": 450,
+      "average_heart_rate": 135,
+      "date": "2023-01-02",
+      "user_name": "Bob Smith",
+      "user_age": 45,
+      "user_gender": "Male"
+    },
+    {
+      "activity_id": 3,
+      "name": "Yoga",
+      "duration_minutes": 60,
+      "calories_burned": 200,
+      "average_heart_rate": 90,
+      "date": "2023-01-03",
+      "user_name": "Charlie Brown",
+      "user_age": 29,
+      "user_gender": "Male"
+    }
+  ]
+  
